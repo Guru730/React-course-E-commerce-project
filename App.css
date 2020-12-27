@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+
+button {
+  margin: 10vw auto 1vw auto;
+  width: 30vw;
+}
